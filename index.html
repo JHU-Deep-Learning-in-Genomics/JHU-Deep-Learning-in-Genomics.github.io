@@ -3,6 +3,25 @@ layout: default
 title: Home
 ---
 
+<h1>JHU Deep Learning in Genomics Journal Club</h1>
+<div>
+<p>Official page for the Johns Hopkins Deep Learning in Genomics Journal Club. We meet biweekly to review the latest literature on the use of Artificial Intelligence, especially modern Transformer-based Large Language Models, to solve questions in Genomics. We also discuss general topics around Deep Learning such as interpretability.</p>
+
+<p>This repository serves as a reference for the materials we discuss. Each meeting, one of our members selects a recent article to present and develops a slide deck to explain it to the group. In the presentation/ folder, we record all of these presentations in chronological order. Please review these slides for detailed explanations of their corresponding papers and to get a sense of what our group considers important literature in the field.</p>
+
+<p>Our meetings are open to all! We meet every other Thursday at 12:00 PM Eastern Time. If you would like to join us, please join Zoom <a href="https://JHUBlueJays.zoom.us/j/96753976668?pwd=gt20QNIDkcJebPETgP3A4bCQbd2uaY.1">here</a>.</p>
+
+<ul>
+  <li>Meeting ID: 967 5397 6668</li>
+  <li>Passcode: 083354</li>
+</ul>
+
+<p>Please contact us at <a href="mailto:genomicdeeplearning@cs.jhu.edu">genomicdeeplearning@cs.jhu.edu</a> to learn more.</p>
+</div>
+<hr>
+
+<br>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -14,7 +33,7 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    <!-- {{ post.content }} -->
   </div>
   {% endfor %}
 </div>
@@ -35,3 +54,6 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+
+<img src="{{ site.baseurl }}/_images/JHU_wse.png" class="illustration" alt="Illustration of a person reading a book" />
+<!-- <img src="{{ site.baseurl }}/public/images/illustration.png" class="illustration" alt="Illustration of a person reading a book" /> -->

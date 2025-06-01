@@ -1,7 +1,8 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               JHU Deep Learning in Genomics Study Group
+tagline:             '<br>When Genomics Sequences Meets Deep Learning'
+description:         'This is the website for the Deep Learning in Genomics Study Group at Johns Hopkins University. We aim to explore and discuss the latest advancements in deep learning applications within genomics.'
+logo:                '_images/JHU_wse.png'
 url:                 https://jhu-deep-learning-in-genomics.github.io/
 baseurl:             ''
 paginate:            5
