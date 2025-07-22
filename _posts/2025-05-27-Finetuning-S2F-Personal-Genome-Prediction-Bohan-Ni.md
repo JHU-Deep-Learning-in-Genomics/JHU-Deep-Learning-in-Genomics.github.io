@@ -32,9 +32,5 @@ title: Bohan Ni - "A scalable approach to investigating sequence-to-expression p
 
 <h2>Contact</h2>
 <p>
-  For questions or further discussion, please reach out to:
-  <br><strong>Kuan-Hao Chao</strong><br>
-  Computational Genomics PhD Candidate<br>
-  Johns Hopkins University, Center for Computational Biology<br>
-  Email: <a href="mailto:kchao10@jhu.edu">kchao10@jhu.edu</a>
+  For questions or further discussion, please reach out to <a href="genomicdeeplearning@cs.jhu.edu">genomicdeeplearning@cs.jhu.edu</a>
 </p>
