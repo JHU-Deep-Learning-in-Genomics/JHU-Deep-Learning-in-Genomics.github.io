@@ -10,7 +10,7 @@ title: Celine Hoh - "GET - A foundation model of transcription across human cell
 
 <h2>Paper Information</h2>
 <ul>
-  <li><strong>Title: </strong>GET: A foundation model of transcription across human cell types</li>
+  <li><strong>Title: </strong>A foundation model of transcription across human cell types</li>
   <li><strong>Authors: </strong>Xi Fu, Shentong Mo, Alejandro Buendia, Anouchka P. Laurent, Anqi Shao, Maria del Mar Alvarez-Torres, Tianji Yu, Jimin Tan, Jiayu Su, Romella Sagatelian, Adolfo A. Ferrando, Alberto Ciccia, Yanyan Lan, David M. Owens, Teresa Palomero, Eric P. Xing & Raul Rabadan</li>
   <li><strong>Journal: </strong>Nature volume 637, pages965–973 (2025)</li>
   <li><strong>DOI & Link: </strong><a href="https://www.nature.com/articles/s41586-024-08391-z" target="_blank">https://www.nature.com/articles/s41586-024-08391-z</a></li>
