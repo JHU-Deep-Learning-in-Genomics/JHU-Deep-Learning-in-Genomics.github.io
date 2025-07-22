@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bowen Chen "Fast and accurate protein structure search with Foldseek" (Kempen et al.)
+title: Bowen Chen - "Fast and accurate protein structure search with Foldseek" (Kempen et al.)
 ---
 <h1></h1>
 
@@ -21,7 +21,7 @@ title: Bowen Chen "Fast and accurate protein structure search with Foldseek" (Ke
 <h2>Slides</h2>
 <div class="iframe-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
-    src="https://drive.google.com/file/d/1TWSMVFt0FdWuR1GITrUb__AEALJ0Ar7_/preview"
+    src="https://drive.google.com/file/d/1EPsUkCeYKmU4FtWq_PRwerGcXHlE9UmG/preview"
     width="100%"
     height="100%"
     style="position: absolute; top: 0; left: 0;"
@@ -33,8 +33,5 @@ title: Bowen Chen "Fast and accurate protein structure search with Foldseek" (Ke
 
 <h2>Contact</h2>
 <p>
-  For questions or further discussion, please reach out to:
-  <br><strong>NAME</strong><br>
-  YOUR TITLE<br>
-  Email: <a href="mailto:kchao10@jhu.edu">kchao10@jhu.edu</a>
+  For questions or further discussion, please reach out to <a href="genomicdeeplearning@cs.jhu.edu">genomicdeeplearning@cs.jhu.edu</a>
 </p>
