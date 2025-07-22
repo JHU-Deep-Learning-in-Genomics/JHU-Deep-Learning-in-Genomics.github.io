@@ -13,7 +13,7 @@ title: Zoe Rudnick - "Sequence modeling and design from molecular to genome scal
   <li><strong>Title: </strong>Sequence modeling and design from molecular to genome scale with Evo</li>
   <li><strong>Authors: </strong>Eric Nguyen, Michael Poli, Matthew G. Durrant, Brian Kang, Dhruva Katrekar, David B. Li, Liam J. Bartie, Armin W. Thomas, Samuel H. King, Garyk Brixi, Jeremy Sullivan, Madelena Y. Ng, Ashley Lewis, Aaron Lou, Stefano Ermon, Stephen A. Baccus, Tina Hernandez-Boussard, Christopher Ré, Patrick D. Hsu, and Brian L. Hie</li>
   <li><strong>Journal: </strong>Science Vol 386, Issue 6723</li>
-  <li><strong>DOI & Link:</strong><a href="https://www.science.org/doi/10.1126/science.ado9336" target="_blank">https://www.science.org/doi/10.1126/science.ado9336</a></li>
+  <li><strong>DOI & Link: </strong><a href="https://www.science.org/doi/10.1126/science.ado9336" target="_blank">https://www.science.org/doi/10.1126/science.ado9336</a></li>
 </ul>
 
 <h2>Slides</h2>
