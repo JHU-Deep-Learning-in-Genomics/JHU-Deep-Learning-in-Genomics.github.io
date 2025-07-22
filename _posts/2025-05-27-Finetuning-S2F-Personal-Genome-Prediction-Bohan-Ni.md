@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bohan Ni\: "A scalable approach to investigating sequence-to-expression prediction from personal genomes" (Spiro et al.)
+title: Bohan Ni - "A scalable approach to investigating sequence-to-expression prediction from personal genomes" (Spiro et al.)
 ---
 <h1></h1>
 
