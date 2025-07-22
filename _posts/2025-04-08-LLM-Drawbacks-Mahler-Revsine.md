@@ -39,8 +39,5 @@ title: Mahler Revsine - "Personal Transcriptome Variation Is Poorly Explained by
 
 <h2>Contact</h2>
 <p>
-  For questions or further discussion, please reach out to:
-  <br><strong>NAME</strong><br>
-  YOUR TITLE<br>
-  Email: <a href="mailto:kchao10@jhu.edu">kchao10@jhu.edu</a>
+  For questions or further discussion, please reach out to <a href="genomicdeeplearning@cs.jhu.edu">genomicdeeplearning@cs.jhu.edu</a>
 </p>
