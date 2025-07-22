@@ -21,7 +21,7 @@ title: Eduarda Vaz - "Parameter-Efficient Fine-Tuning of a Supervised Regulatory
 <h2>Slides</h2>
 <div class="iframe-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
-    src="https://drive.google.com/file/d/1TWSMVFt0FdWuR1GITrUb__AEALJ0Ar7_/preview"
+    src="https://drive.google.com/file/d/1mYAAm3LQRAqwYJJxPQQy1pepRRL3tj6S/preview"
     width="100%"
     height="100%"
     style="position: absolute; top: 0; left: 0;"
