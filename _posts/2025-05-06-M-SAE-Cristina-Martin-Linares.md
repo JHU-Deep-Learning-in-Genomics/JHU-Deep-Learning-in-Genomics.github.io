@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cristina Martin Linares "Towards Interpretable Protein Structure Prediction with Sparse Autoencoders" (Parsan et al.)
+title: Cristina Martin Linares - "Towards Interpretable Protein Structure Prediction with Sparse Autoencoders" (Parsan et al.)
 ---
 <h1></h1>
 
