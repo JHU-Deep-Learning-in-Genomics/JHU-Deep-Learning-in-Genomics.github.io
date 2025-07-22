@@ -10,10 +10,10 @@ title: Cristina Martin Linares - "Machine-guided design of cell-type-targeting c
 
 <h2>Paper Information</h2>
 <ul>
-  <li><strong>Title:</strong> </li>
-  <li><strong>Authors:</strong> </li>
-  <li><strong>Journal:</strong></li>
-  <li><strong>DOI & Link:</strong> </li>
+  <li><strong>Title: </strong>Machine-guided design of cell-type-targeting cis-regulatory elements</li>
+  <li><strong>Authors: </strong>Sager J. Gosai, Rodrigo I. Castro, Natalia Fuentes, John C. Butts, Kousuke Mouri, Michael Alasoadura, Susan Kales, Thanh Thanh L. Nguyen, Ramil R. Noche, Arya S. Rao, Mary T. Joy, Pardis C. Sabeti, Steven K. Reilly & Ryan Tewhey</li>
+  <li><strong>Journal: </strong>Nature volume 634, pages1211–1220 (2024)</li>
+  <li><strong>DOI & Link: </strong><a href="https://www.nature.com/articles/s41586-024-08070-z" target="_blank">https://www.nature.com/articles/s41586-024-08070-z</a></li>
 </ul>
 
 <h2>Slides</h2>
@@ -21,7 +21,7 @@ title: Cristina Martin Linares - "Machine-guided design of cell-type-targeting c
 <h2>Slides</h2>
 <div class="iframe-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
-    src="https://drive.google.com/file/d/1TWSMVFt0FdWuR1GITrUb__AEALJ0Ar7_/preview"
+    src="https://drive.google.com/file/d/14pUVSkNtT-DLh-9U1X5gtJECgIaGVTcf/preview"
     width="100%"
     height="100%"
     style="position: absolute; top: 0; left: 0;"
