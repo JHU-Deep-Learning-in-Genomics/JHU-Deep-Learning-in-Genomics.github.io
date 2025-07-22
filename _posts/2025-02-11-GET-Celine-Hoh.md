@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Celine Hoh - "A foundation model of transcription across human cell types" (Fu et al.)
+title: Celine Hoh - "GET\: A foundation model of transcription across human cell types" (Fu et al.)
 ---
 <h1></h1>
 
@@ -21,7 +21,7 @@ title: Celine Hoh - "A foundation model of transcription across human cell types
 <h2>Slides</h2>
 <div class="iframe-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
-    src="https://drive.google.com/file/d/1TWSMVFt0FdWuR1GITrUb__AEALJ0Ar7_/preview"
+    src="https://drive.google.com/file/d/1ws3WAX4HzWGQsNyqTXutnCH0FFWDQ8VN/preview"
     width="100%"
     height="100%"
     style="position: absolute; top: 0; left: 0;"
