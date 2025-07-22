@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Celine Hoh "A foundation model of transcription across human cell types" (Fu et al.)
+title: Celine Hoh - "A foundation model of transcription across human cell types" (Fu et al.)
 ---
 <h1></h1>
 
@@ -33,8 +33,5 @@ title: Celine Hoh "A foundation model of transcription across human cell types" 
 
 <h2>Contact</h2>
 <p>
-  For questions or further discussion, please reach out to:
-  <br><strong>NAME</strong><br>
-  YOUR TITLE<br>
-  Email: <a href="mailto:kchao10@jhu.edu">kchao10@jhu.edu</a>
+  For questions or further discussion, please reach out to <a href="genomicdeeplearning@cs.jhu.edu">genomicdeeplearning@cs.jhu.edu</a>
 </p>
