@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mahler Revsine "HyenaDNA Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution" (Nguyen et al.)
+title: Mahler Revsine - "HyenaDNA Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution" (Nguyen et al.)
 ---
 <h1></h1>
 
@@ -33,8 +33,5 @@ title: Mahler Revsine "HyenaDNA Long-Range Genomic Sequence Modeling at Single N
 
 <h2>Contact</h2>
 <p>
-  For questions or further discussion, please reach out to:
-  <br><strong>NAME</strong><br>
-  YOUR TITLE<br>
-  Email: <a href="mailto:kchao10@jhu.edu">kchao10@jhu.edu</a>
+  For questions or further discussion, please reach out to <a href="genomicdeeplearning@cs.jhu.edu">genomicdeeplearning@cs.jhu.edu</a>
 </p>
