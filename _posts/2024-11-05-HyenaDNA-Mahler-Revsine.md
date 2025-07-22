@@ -10,10 +10,10 @@ title: Mahler Revsine - "HyenaDNA Long-Range Genomic Sequence Modeling at Single
 
 <h2>Paper Information</h2>
 <ul>
-  <li><strong>Title:HyenaDNA Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution</strong> </li>
-  <li><strong>Authors:Eric Nguyen,Michael Poli, Marjan Faizi</strong> </li>
-  <li><strong>Journal:37th Conference on Neural Information Processing Systems (NeurIPS 2023).</strong></li>
-  <li><strong>DOI & Link:https://papers.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf</strong> </li>
+  <li><strong>Title: </strong>HyenaDNA Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution</li>
+  <li><strong>Authors: </strong>Eric Nguyen,Michael Poli, Marjan Faizi</li>
+  <li><strong>Journal: </strong>37th Conference on Neural Information Processing Systems (NeurIPS 2023).</li>
+  <li><strong>DOI & Link: </strong><a href="https://papers.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf" target="_blank">https://papers.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf</a></li>
 </ul>
 
 <h2>Slides</h2>
@@ -21,7 +21,7 @@ title: Mahler Revsine - "HyenaDNA Long-Range Genomic Sequence Modeling at Single
 <h2>Slides</h2>
 <div class="iframe-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
-    src="https://drive.google.com/file/d/1TWSMVFt0FdWuR1GITrUb__AEALJ0Ar7_/preview"
+    src="https://drive.google.com/file/d/116RQCOTqa6tfyt371kIgVH0Z1qWcDuQp/preview"
     width="100%"
     height="100%"
     style="position: absolute; top: 0; left: 0;"
