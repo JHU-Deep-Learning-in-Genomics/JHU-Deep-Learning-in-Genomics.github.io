@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kuan-Hao Chao "Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation" (Linder et al.)
+title: Kuan-Hao Chao - "Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation" (Linder et al.)
 ---
 <h2>Overview</h2>
 <p>
