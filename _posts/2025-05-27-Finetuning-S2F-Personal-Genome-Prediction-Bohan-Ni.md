@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bohan Ni "A scalable approach to investigating sequence-to-expression prediction from personal genomes" (Spiro et al.)
+title: Bohan Ni: "A scalable approach to investigating sequence-to-expression prediction from personal genomes" (Spiro et al.)
 ---
 <h1></h1>
 
@@ -10,10 +10,10 @@ title: Bohan Ni "A scalable approach to investigating sequence-to-expression pre
 
 <h2>Paper Information</h2>
 <ul>
-  <li><strong>Title:</strong> </li>
-  <li><strong>Authors:</strong> </li>
-  <li><strong>Journal:</strong></li>
-  <li><strong>DOI & Link:</strong> </li>
+  <li><strong>Title:A scalable approach to investigating sequence-to-expression prediction from personal genomes</strong> </li>
+  <li><strong>Authors:Anna E. Spiro, Xinming Tu, Yilun Sheng, Alexander Sasse, Rezwan Hosseini, Maria Chikina, Sara Mostafavi</strong> </li>
+  <li><strong>Journal:bioRxiv</strong></li>
+  <li><strong>DOI & Link:https://doi.org/10.1101/2025.02.21.639494</strong> </li>
 </ul>
 
 <h2>Slides</h2>
@@ -29,12 +29,3 @@ title: Bohan Ni "A scalable approach to investigating sequence-to-expression pre
     allowfullscreen>
   </iframe>
 </div>
-
-
-<h2>Contact</h2>
-<p>
-  For questions or further discussion, please reach out to:
-  <br><strong>NAME</strong><br>
-  YOUR TITLE<br>
-  Email: <a href="mailto:kchao10@jhu.edu">kchao10@jhu.edu</a>
-</p>
