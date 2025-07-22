@@ -21,7 +21,7 @@ title: Celine Hoh - "PrimateAI-3D - Using Evolution & Protein Structures to Tell
 <h2>Slides</h2>
 <div class="iframe-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
-    src="https://drive.google.com/file/d/1mYAAm3LQRAqwYJJxPQQy1pepRRL3tj6S/preview"
+    src="https://drive.google.com/file/d/13r5e_OV0GvD8qbksygkMzF_utmutz8Of/preview"
     width="100%"
     height="100%"
     style="position: absolute; top: 0; left: 0;"
