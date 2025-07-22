@@ -10,10 +10,10 @@ title: Cristina Martin Linares "Towards Interpretable Protein Structure Predicti
 
 <h2>Paper Information</h2>
 <ul>
-  <li><strong>Title:</strong> </li>
-  <li><strong>Authors:</strong> </li>
-  <li><strong>Journal:</strong></li>
-  <li><strong>DOI & Link:</strong> </li>
+  <li><strong>Title: </strong>Towards Interpretable Protein Structure Prediction with Sparse Autoencoders</li>
+  <li><strong>Authors: </strong>Nithin Parsan, David J. Yang, John J. Yang</li>
+  <li><strong>Journal: </strong>GEMBio ICLR 2025 Workshop</li>
+  <li><strong>DOI & Link:</strong><a href="https://arxiv.org/abs/2503.08764" target="_blank">https://arxiv.org/abs/2503.08764</a></li>
 </ul>
 
 <h2>Slides</h2>
@@ -33,8 +33,5 @@ title: Cristina Martin Linares "Towards Interpretable Protein Structure Predicti
 
 <h2>Contact</h2>
 <p>
-  For questions or further discussion, please reach out to:
-  <br><strong>NAME</strong><br>
-  YOUR TITLE<br>
-  Email: <a href="mailto:kchao10@jhu.edu">kchao10@jhu.edu</a>
+  For questions or further discussion, please reach out to <a href="genomicdeeplearning@cs.jhu.edu">genomicdeeplearning@cs.jhu.edu</a>
 </p>
