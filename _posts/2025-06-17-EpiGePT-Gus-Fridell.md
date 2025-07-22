@@ -10,7 +10,7 @@ title: Gus Fridell - "EpiGePT" (Gao et al.)
 
 <h2>Paper Information</h2>
 <ul>
-  <li><strong>Title: </strong>EpiGePT\: a pretrained transformer-based language model for context-specific human epigenomics</li>
+  <li><strong>Title: </strong>EpiGePT: a pretrained transformer-based language model for context-specific human epigenomics</li>
   <li><strong>Authors: </strong>Zijing Gao, Qiao Liu, Wanwen Zeng, Rui Jiang, Wing Hung Wong</li>
   <li><strong>Journal: </strong>Genome Biology 25, Article number: 310 (2024)</li>
   <li><strong>DOI & Link: </strong><a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03449-7" target="_blank">https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03449-7</a></li>
