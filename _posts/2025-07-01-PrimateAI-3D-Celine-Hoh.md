@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Celine Hoh - "PrimateAI-3D: Using Evolution & Protein Structures to Tell Apart Good/Bad Gene Variants" (Yuan et al.)
+title: Celine Hoh - "PrimateAI-3D - Using Evolution & Protein Structures to Tell Apart Good/Bad Gene Variants" (Yuan et al.)
 ---
 <h1></h1>
 
