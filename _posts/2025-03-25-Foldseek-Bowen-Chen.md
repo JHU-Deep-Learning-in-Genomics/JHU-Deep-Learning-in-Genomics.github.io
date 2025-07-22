@@ -13,7 +13,7 @@ title: Bowen Chen - "Fast and accurate protein structure search with Foldseek" (
   <li><strong>Title: </strong>Fast and accurate protein structure search with Foldseek</li>
   <li><strong>Authors: </strong>Michel van Kempen, Stephanie S. Kim, Charlotte Tumescheit, Milot Mirdita, Jeongjae Lee, Cameron L. M. Gilchrist, Johannes Söding & Martin Steinegger</li>
   <li><strong>Journal: </strong>Nature Biotechnology volume 42, pages243–246 (2024)</li>
-  <li><strong>DOI & Link:</strong><a href="https://www.nature.com/articles/s41587-023-01773-0" target="_blank">https://www.nature.com/articles/s41587-023-01773-0</a></li>
+  <li><strong>DOI & Link: </strong><a href="https://www.nature.com/articles/s41587-023-01773-0" target="_blank">https://www.nature.com/articles/s41587-023-01773-0</a></li>
 </ul>
 
 <h2>Slides</h2>
