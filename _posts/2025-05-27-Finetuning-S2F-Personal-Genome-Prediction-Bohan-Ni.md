@@ -13,7 +13,7 @@ title: Bohan Ni - "A scalable approach to investigating sequence-to-expression p
   <li><strong>Title:</strong> A scalable approach to investigating sequence-to-expression prediction from personal genomes</li>
   <li><strong>Authors: </strong> Anna E. Spiro, Xinming Tu, Yilun Sheng, Alexander Sasse, Rezwan Hosseini, Maria Chikina, Sara Mostafavi</li>
   <li><strong>Journal: </strong>bioRxiv</li>
-  <li><strong>DOI & Link: </strong> <a href="[https://www.nature.com/articles/s41588-024-02053-6](https://doi.org/10.1101/2025.02.21.639494)" target="_blank">[https://www.nature.com/articles/s41588-024-02053-6](https://doi.org/10.1101/2025.02.21.639494)</a></li>
+  <li><strong>DOI & Link:</strong> <a href="https://doi.org/10.1101/2025.02.21.639494" target="_blank">https://doi.org/10.1101/2025.02.21.639494</a></li>
 </ul>
 
 <h2>Slides</h2>
