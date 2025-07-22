@@ -10,10 +10,10 @@ title: Mahler Revsine "HyenaDNA Long-Range Genomic Sequence Modeling at Single N
 
 <h2>Paper Information</h2>
 <ul>
-  <li><strong>Title:</strong> </li>
-  <li><strong>Authors:</strong> </li>
-  <li><strong>Journal:</strong></li>
-  <li><strong>DOI & Link:</strong> </li>
+  <li><strong>Title:HyenaDNA Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution</strong> </li>
+  <li><strong>Authors:Eric Nguyen,Michael Poli, Marjan Faizi</strong> </li>
+  <li><strong>Journal:37th Conference on Neural Information Processing Systems (NeurIPS 2023).</strong></li>
+  <li><strong>DOI & Link:https://papers.neurips.cc/paper_files/paper/2023/file/86ab6927ee4ae9bde4247793c46797c7-Paper-Conference.pdf</strong> </li>
 </ul>
 
 <h2>Slides</h2>
