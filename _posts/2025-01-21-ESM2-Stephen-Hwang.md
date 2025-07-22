@@ -10,10 +10,10 @@ title: Stephen Hwang - "Evolutionary-scale prediction of atomic-level protein st
 
 <h2>Paper Information</h2>
 <ul>
-  <li><strong>Title:</strong> </li>
-  <li><strong>Authors:</strong> </li>
-  <li><strong>Journal:</strong></li>
-  <li><strong>DOI & Link:</strong> </li>
+  <li><strong>Title: </strong>Evolutionary-scale prediction of atomic-level protein structure with a language model</li>
+  <li><strong>Authors: </strong>Zeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita Smetanin, Robert Verkuil, Ori Kabeli, Yaniv Shmueli, Allan dos Santos Costa, Maryam Fazel-Zarandi, Tom Sercu, Salvatore Candido, and Alexander Rives</li>
+  <li><strong>Journal: </strong>Science Vol 379, Issue 6637</li>
+  <li><strong>DOI & Link: </strong><a href="https://www.science.org/doi/10.1126/science.ade2574" target="_blank">https://www.science.org/doi/10.1126/science.ade2574</a></li>
 </ul>
 
 <h2>Slides</h2>
@@ -21,7 +21,7 @@ title: Stephen Hwang - "Evolutionary-scale prediction of atomic-level protein st
 <h2>Slides</h2>
 <div class="iframe-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
-    src="https://drive.google.com/file/d/1TWSMVFt0FdWuR1GITrUb__AEALJ0Ar7_/preview"
+    src="https://drive.google.com/file/d/14zJpOWNMyoy0EbB-TkNIo-Gdkeo7RegH/preview"
     width="100%"
     height="100%"
     style="position: absolute; top: 0; left: 0;"
