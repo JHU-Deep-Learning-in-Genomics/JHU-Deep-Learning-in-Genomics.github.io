@@ -1,7 +1,7 @@
 # Setup
 title:               JHU Deep Learning in Genomics Journal Club
 tagline:             '<br>When Genomics Sequences Meet Deep Learning'
-description:         'This is the website for the Deep Learning in Genomics Study Group at Johns Hopkins University. We aim to explore and discuss the latest advancements in deep learning applications within genomics.'
+description:         'This is the website for the Deep Learning in Genomics Journal Club at Johns Hopkins University. We aim to explore and discuss the latest advancements in deep learning applications within genomics.'
 logo:                '_images/JHU_wse.png'
 url:                 https://jhu-deep-learning-in-genomics.github.io/
 baseurl:             ''
