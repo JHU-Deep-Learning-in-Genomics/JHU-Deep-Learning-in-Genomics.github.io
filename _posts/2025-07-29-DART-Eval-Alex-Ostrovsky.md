@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alex Ostrovsky - "DART-Eval: A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA" (Patel et al.)
+title: Alex Ostrovsky - "DART-Eval; A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA" (Patel et al.)
 ---
 <h1></h1>
 
