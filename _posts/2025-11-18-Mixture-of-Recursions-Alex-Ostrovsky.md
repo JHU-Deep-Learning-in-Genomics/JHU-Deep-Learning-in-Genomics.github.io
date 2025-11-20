@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alex Ostrovsky - "Mixture-of-Recursions\: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation" (Bae et al.)
+title: Alex Ostrovsky - "Mixture-of-Recursions - Learning Dynamic Recursive Depths for Adaptive Token-Level Computation" (Bae et al.)
 ---
 <h1></h1>
 
@@ -10,7 +10,7 @@ title: Alex Ostrovsky - "Mixture-of-Recursions\: Learning Dynamic Recursive Dept
 
 <h2>Paper Information</h2>
 <ul>
-  <li><strong>Title: </strong>Mixture-of-Recursions\: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation</li>
+  <li><strong>Title: </strong>Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation</li>
   <li><strong>Authors: </strong>Sangmin Bae, Yujin Kim, Reza Bayat, Sungnyun Kim, Jiyoun Ha, Tal Schuster, Adam Fisch, Hrayr Harutyunyan, Ziwei Ji, Aaron Courville, and Se-Young Yun</li>
   <li><strong>Journal: </strong>arXiv:2507.10524</li>
   <li><strong>DOI & Link:</strong> <a href="https://doi.org/10.48550/arXiv.2507.10524" target="_blank">https://doi.org/10.48550/arXiv.2507.10524</a></li>
