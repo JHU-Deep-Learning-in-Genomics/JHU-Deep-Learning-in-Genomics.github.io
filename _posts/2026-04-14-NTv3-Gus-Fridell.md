@@ -31,10 +31,15 @@ title: Gus Fridell - "A foundational model for joint sequence-function multi-spe
 </div>
 
 <h2>Recording</h2>
-<div>
-  <video width="540" height="310" controls>
-    <source src="https://drive.google.com/file/d/1sP1PoQR4szOUBb1GVpGjFX9psvJNo0iv/preview" type="video/mp4">
-  </video>
+<div class="iframe-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://drive.google.com/file/d/1sP1PoQR4szOUBb1GVpGjFX9psvJNo0iv/preview"
+    width="100%"
+    height="100%"
+    style="position: absolute; top: 0; left: 0;"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
 </div>
 
 <h2>Contact</h2>
