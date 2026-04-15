@@ -30,6 +30,13 @@ title: Gus Fridell - "A foundational model for joint sequence-function multi-spe
   </iframe>
 </div>
 
+<h2>Recording</h2>
+<div>
+  <video width="540" height="310" controls>
+    <source src="https://drive.google.com/file/d/1sP1PoQR4szOUBb1GVpGjFX9psvJNo0iv/preview" type="video/mp4">
+  </video>
+</div>
+
 <h2>Contact</h2>
 <p>
   For questions or further discussion, please reach out to <a href="genomicdeeplearning@cs.jhu.edu">genomicdeeplearning@cs.jhu.edu</a>
