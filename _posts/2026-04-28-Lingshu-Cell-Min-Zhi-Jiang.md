@@ -30,18 +30,6 @@ title: Min-Zhi Jiang - "Lingshu-Cell - A generative cellular world model for tra
   </iframe>
 </div>
 
-<h2>Recording</h2>
-<div class="iframe-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe
-    src="https://drive.google.com/file/d/12qMZiu7014VcnnQDffegFgo_rARjUEMT/preview"
-    width="100%"
-    height="100%"
-    style="position: absolute; top: 0; left: 0;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
-
 <h2>Contact</h2>
 <p>
   For questions or further discussion, please reach out to <a href="genomicdeeplearning@cs.jhu.edu">genomicdeeplearning@cs.jhu.edu</a>
